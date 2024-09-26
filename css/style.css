@@ -10,7 +10,6 @@ ol {
     list-style-type: upper-latin;
     font-size: 17px;
     color: white;
-
 }
 
 ul {
@@ -19,9 +18,8 @@ ul {
     font-size: 25px;
 }
 
-li > ul {
+li>ul {
     list-style-type: disc;
     font-size: 17px;
     color: white;
 }
-
